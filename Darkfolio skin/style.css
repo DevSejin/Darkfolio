@@ -624,8 +624,16 @@ html {
       margin-bottom: 0; }
   .area_sidebar .link_item .c_cnt {
     color: rgba(0, 0, 0, 0.56); }
+
   .area_sidebar .box_gnb {
     margin-bottom: 60px; }
+    
+  .area_sidebar .menu_mybox{
+		margin-top: 20px;
+	  margin-bottom: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #e5e5e5; }
+
   .area_sidebar .box_gnb li:last-child {
     margin-bottom: 0; }
   .area_sidebar .link_sub_item {
