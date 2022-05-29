@@ -863,13 +863,15 @@ html {
   margin-right: 10px;
   margin-bottom: 10px;
   padding: 5px 10px;
-  border: solid 1px rgba(0, 0, 0, 0.25);
+  border: solid 1px;
+	border-radius: 70px 70px 70px 70px;
   font-size: 16px;
   color: #333;
   text-decoration: none; }
 
 .tag_zone a:hover {
   border: solid 1px #4167d9;
+  background-color: #4167d9;
   color: #4167d9; }
 
 .list_sidebar {
@@ -944,7 +946,7 @@ aside .tag_board {
     font-size: 12px; }
   .area_popup .tag_zone a {
     border: none;
-    padding: 5px 10px 5px 0;
+    padding: 5px 10px;
     font-size: 16px; }
   .area_popup .tag_zone a:hover {
     border: none; }
@@ -2771,8 +2773,8 @@ figure[data-ke-type='opengraph'] div.og-image {
 }
 
 .tag_zone a {
-  border: solid 1px #999 !important;
-  color: #eee !important;
+  
+  color: #ccc !important;
 }
 
 .area_popup .box_form {
