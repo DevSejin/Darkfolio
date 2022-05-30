@@ -2127,7 +2127,7 @@ aside .tag_board {
 .area_category {
   max-width: 1180px;
   margin: 148px auto 0 auto;
-  padding: 120px 24px 0 24px; }
+  padding: 60px 24px 0 24px; }
 
 .area_category a {
   text-decoration: none; }
@@ -2654,7 +2654,7 @@ table, select{
   color: #ddd !important;
 }
 
-.pagination a, p, ul, li, p span {
+.pagination a, p, ul, li {
   color: #aaa !important;
 }
 
@@ -2773,7 +2773,7 @@ figure[data-ke-type='opengraph'] div.og-image {
 }
 
 .tag_zone a {
-  
+
   color: #ccc !important;
 }
 
