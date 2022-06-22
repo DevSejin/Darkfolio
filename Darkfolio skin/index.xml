@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <skin>
 	<information>
-		<name>Portfolio</name>
+		<name>Darkfolio</name>
 		<version>1.0</version>
 		<description>
-			<![CDATA[ 나만의 시선, 나만의 콘텐츠로 꽉 찬 공간을 위해 준비했습니다. 세상에서 하나 뿐인 여러분의 포트폴리오를 자랑해주세요. ]]>
+			<![CDATA[ Portfolio의 Dark버전 입니다. 약간의 기타 조정사항도 있습니다. ]]>
 		</description>
 		<license>
 			<![CDATA[ MIT License ]]>
 		</license>
 	</information>
 	<author>
-		<name>Tistory</name>
+		<name>Tistory Original, Custom Sejin</name>
 		<homepage>https://www.tistory.com</homepage>
 		<email>tistoryblog@daum.net</email>
 	</author>
